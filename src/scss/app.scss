@@ -27,3 +27,17 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
+main{
+padding: 0;
+}
+header{
+position: sticky;
+top:0;
+padding:40px;
+background: lightblue;
+text-align: center;
+}
+
+content > div {
+height: 50px;
+}
